@@ -59,4 +59,3 @@ def key_and_data(first_recycle_bin)
   puts "The #{key} is #{value}"
 end 
 end 
-end 

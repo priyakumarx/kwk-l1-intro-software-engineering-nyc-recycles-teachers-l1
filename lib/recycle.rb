@@ -27,6 +27,7 @@ end
 
 def borough(first_recycle_bin)
   first_recycle_bin["borough"]
+end 
 # This method should return the value of the borough key in the hash.
 
 #3. Define a method called `all_keys` that takes a hash as an argument.
